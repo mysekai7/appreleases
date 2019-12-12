@@ -3,11 +3,11 @@ entries:
   cpaas-appreleases:
   - apiVersion: v1
     appVersion: "2.0"
-    created: "2019-12-12T15:07:42.740821+08:00"
+    created: "2019-12-12T15:58:26.726178+08:00"
     description: Cpaas appreleases for sentry
-    digest: 39c95ea9d39f1ad5419d0e6378c1570a364319b984f5adff0b151a65a614240c
+    digest: 615833128d3ad1e9408d861c64ca0a5400a56a420690fc49e6ca7ec9485e5e11
     name: cpaas-appreleases
     urls:
     - https://onechao.github.io/appreleases/cpaas-appreleases-v2.5-b.2.tgz
     version: v2.5-b.2
-generated: "2019-12-12T15:07:42.73344+08:00"
+generated: "2019-12-12T15:58:26.722351+08:00"
